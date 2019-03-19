@@ -1,3 +1,5 @@
+# Smartbrain App created with React (on the front-end), Node/Express (on the back-end), and PostgreSQL for the server. Utilizes Clarifai's machine learning API for facial recognition when given a URL. Enjoy!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
